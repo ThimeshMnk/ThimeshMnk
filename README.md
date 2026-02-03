@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying software engineering in SLIIT<br>👯 I’m looking to collaborate on software developing related contents<br>🌱 I’m currently learning java, MERN, Python, Kotlin etc<br>💬 Ask me about coding<br>
+🔭 Completed Bsc(Hons) In Information Technology Specializing In Software Engineering<br>👯 I’m looking to collaborate on software developing related contents<br>🌱 Expert In Php,React Js,Next Js, Laravel and Node Jsbr>💬 Ask me about coding<br>
 
 
 ## 🌐 Socials:
